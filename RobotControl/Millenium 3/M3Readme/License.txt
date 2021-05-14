@@ -1,0 +1,32 @@
+License on the software of the Millenium 3
+
+
+1. CROUZET Automatismes is the sole owner of all the rights related to the software of Millenium 3 programmable logic controller ("Millenium 3") and of any related documentation.
+
+2. CROUZET Automatismes grants to the buyer of Millenium 3 or of the Millenium 3 CD-ROM incorporating the software (the "CD-ROM"), the right :
+- to use the software exclusively for the exploitation of the functions of  Millenium 3, and
+- for this purpose only, to install the software on Millenium 3 hardware or on one computer only as well as make one copy of the software for the exclusive purpose of backup, 
+
+to the exclusion of any other right such as, but not limited to, the right to sell, loan, disassemble, decompile, translate or modify the software.
+
+This right to use and copy the software is non-exclusive, non-assignable, non-transferable, and without right to sublicense.
+
+Any use or reproduction no expressly authorized in the license is prohibited. All rights are reserved.
+
+3. THE BUYER IS DEEMED TO HAVE ACCEPTED THE TERMS OF THIS LICENSE AGREEMENT BY THE SIMPLE FACT OF LOADING THE SOFTWARE INTO ANY COMPUTER, OR OF USING THE SOFTWARE OR THE DOCUMENTATION.
+
+4. Any identification mark on the software, such as CROUZET logo or trademark, shall neither be removed nor reproduced.
+
+5. The buyer shall be sole responsible for the proper installation of the software and shall bear all expenses and costs in connection therewith. CROUZET Automatismes provides no maintenance or support services in connection with the software, other than those which may be defined by way of separate agreement.
+
+6. In case of claim by a third party related to the software, CROUZET Automatismes will do its best efforts to support the buyer, and may at its sole discretion, either negotiate an agreement with the third party or modify the software to enable the buyer to use it, or pay a compensation to the buyer strictly limited to the amount paid by the latter for Millenium 3 or the CD-ROM, to the exclusion of any other compensation or indemnity whatsoever.
+CROUZET Automatismes warrants the physical defect of the CD ROM supporting the software during a period of ninety (90) days as from its delivery. Should any such defect be detected, CROUZET Automatismes' obligation shall be exclusively limited to the free replacement of the  CD ROM, upon return of the defective one to CROUZET Automatismes.
+
+THE PROVISIONS OF THIS PARAGRAPH 6 CONSTITUTE THE ENTIRE WARRANTY GRANTED BY CROUZET AUTOMATISMES ON THE SOFTWARE, TO THE EXCLUSION OF ANY OTHER CONDITIONS OR WARRANTIES, EXPRESS OR IMPLIED SUCH AS, BUT NOT LIMITED TO, THE WARRANTIES OF DESIGN OR FITNESS FOR A PARTICULAR PURPOSE AS WELL AS ANY LIABILITY FOR LOSS OR DAMAGE CAUSED DIRECTLY OR INDIRECTLY BY THE SOFTWARE OR RESULTING FROM ITS USE.
+CROUZET AUTOMATISMES' TOTAL AGGREGATE LIABILITY RELATING TO THE SOFTWARE SHALL IN NO CASE EXCEED THE AMOUNT OF FEES PAID BY THE BUYER FOR THE MILLENIUM 3 OR THE CD ROM.
+
+Any third party's technology which may be embodied in the software is also subject to the terms of this agreement.
+
+7. This license is governed and interpreted in accordance with the French law. Any litigation arising in connection with this license will be submitted to the Tribunal de Commerce de Paris.
+
+8. Should any of the provisions of this agreement be held invalid, illegal or unenforceable by a competent jurisdiction, the parties shall take all reasonable steps in order to modify such provision to render it valid, legal or enforceable, bearing in mind their original intentions, and all other provisions shall remain valid and unaffected by such declared invalidity, illegality or non-enforceability.

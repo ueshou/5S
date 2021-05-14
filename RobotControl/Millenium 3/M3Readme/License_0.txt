@@ -1,0 +1,33 @@
+Licence relative au logiciel du Millenium 3
+
+
+1. CROUZET Automatismes est seule titulaire de tous les droits relatifs au logiciel du contrôleur logique Millenium 3 ("Millenium 3") et de toute documentation y relative 
+
+2. CROUZET Automatismes concède à l'acheteur du contrôleur logique Millenium 3 ou du CD-ROM Millenium 3 contenant le logiciel (le "CD-ROM"), le droit :
+-	d'utiliser le logiciel exclusivement pour l'exploitation des fonctions du Millenium 3, et
+-	seulement à cet effet, d'installer le logiciel sur le Millenium 3 ou sur un seul ordinateur ainsi que de faire une copie du logiciel aux fins exclusives de sauvegarde,
+
+à l'exclusion de tout autre droit tel que, et de manière non limitative, le droit de vendre, de prêter, de décomposer, de décompiler, de traduire et de modifier le logiciel.
+
+Ce droit d'utilisation et de copie est non-exclusif, non cessible, non transférable, et sans droit de sous-licence.
+
+Toute utilisation ou reproduction non expressément autorisées dans la licence sont prohibées. Tous droits sont réservés.
+
+3. L'ACHETEUR EST RÉPUTÉ AVOIR ACCEPTÉ LES TERMES DE LA PRÉSENTE LICENCE PAR LE SEUL FAIT D'AVOIR INSTALLÉ LE LOGICIEL SUR UN ORDINATEUR, OU D'UTILISER LE LOGICIEL OU LA DOCUMENTATION.
+
+4. Tout marquage d'identification sur le logiciel, tel que le logo ou la marque CROUZET, ne doit ni être enlevé ni être reproduit.
+
+5. L'acheteur est entièrement responsable de l'installation du logiciel et supportera tous les coûts pouvant en résulter. Crouzet Automatismes ne fournit aucune maintenance ni support relativement au logiciel, autres que ceux pouvant résulter de contrats séparés.
+
+6. En cas de réclamation de tiers relative au logiciel, CROUZET Automatismes fera de son mieux pour assister l'acheteur, et pourra, à son seul choix, négocier un accord avec le tiers ou modifier le logiciel pour permettre à l'acheteur de l'utiliser, ou verser à l'acheteur une compensation, laquelle sera strictement limitée au montant payé par ce dernier pour le Millenium 3 ou le CD-ROM, à l'exclusion de toute autre compensation ou indemnité quelle qu'elle soit.
+
+Pendant une période de quatre-vingt dix jours (90) jours suivant la livraison du CD ROM support du logiciel, CROUZET Automatismes garantit ce dernier contre toute défectuosité physique affectant son utilisation. En cas de défectuosité, l'obligation de CROUZET Automatismes sera strictement limitée au remplacement du CD ROM après renvoi du CD ROM défectueux à CROUZET Automatismes. 
+
+LES DISPOSITIONS DE CE PARAGRAPHE 6 CONSTITUENT L'INTÉGRALITÉ DE LA GARANTIE ACCORDÉE PAR CROUZET AUTOMATISMES SUR LE LOGICIEL, À L'EXCLUSION DE TOUTES AUTRES CONDITIONS OU GARANTIES EXPRIMÉES OU IMPLICITES, TELLES QUE, ET DE MANIÈRE NON LIMITATIVE, LA GARANTIE DE CONCEPTION OU D'ADÉQUATION À UN USAGE PARTICULIER AINSI QUE TOUTE RESPONSABILITÉ POUR PERTE OU DOMMAGE CAUSÉ DIRECTEMENT OU INDIRECTEMENT PAR LE LOGICIEL OU RÉSULTANT DE SON USAGE.
+EN TOUTES CIRCONSTANCES LE MONTANT MAXIMUM TOTAL POUVANT ÊTRE DÛ PAR CROUZET AUTOMATISMES AU TITRE DU LOGICIEL EST STRICTEMENT LIMITÉ AU MONTANT PAYÉ PAR L'ACHETEUR POUR LE MILLENIUM 3 OU LE CD ROM.
+
+Toute technologie propriété d'un tiers qui pourrait être incorporée dans le logiciel est aussi régie par les dispositions de la présente licence.
+
+7. Cette licence sera régie et interprétée selon le droit français. Tout litige y relatif sera soumis au Tribunal de Commerce de Paris.
+
+8. En cas d'invalidité, de nullité ou d'illégalité de l'une quelconque des dispositions de la présente licence, prononcée par un tribunal compétent, les parties s'efforceront de modifier ladite disposition pour la rendre valide ou légale tout en respectant l'intention initiale des parties, et toutes les autres dispositions resteront valides et non affectées par l'invalidité, la nullité ou l'illégalité de la disposition en cause.

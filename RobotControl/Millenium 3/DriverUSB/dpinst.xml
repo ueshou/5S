@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<dpinst>
+    <enableNotListedLanguages/>
+    <forceIfDriverIsNotBetter/>
+    <suppressAddRemovePrograms/>
+    <suppressWizard/>
+</dpinst>
