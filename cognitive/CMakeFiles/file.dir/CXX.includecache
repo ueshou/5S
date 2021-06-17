@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shota/5S/cognitive/dp.cpp
+fstream
+-
+string
+-
+vector
+-
+iostream
+-
+experimental/filesystem
+-
+cmath
+-
+algorithm
+-
+

@@ -1,0 +1,3 @@
+/home/shota/5S/cognitive/CMakeFiles/rebuild_cache.dir
+/home/shota/5S/cognitive/CMakeFiles/file.dir
+/home/shota/5S/cognitive/CMakeFiles/edit_cache.dir
